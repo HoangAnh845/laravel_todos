@@ -1,0 +1,3 @@
+<svg {{ $attributes }}>
+    {{ $slot }}
+</svg>
